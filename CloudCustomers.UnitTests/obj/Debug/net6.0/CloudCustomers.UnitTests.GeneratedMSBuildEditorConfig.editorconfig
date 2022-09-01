@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CloudCustomers.UnitTests
-build_property.ProjectDir = C:\Users\mateu\OneDrive\Área de Trabalho\Projetos\CLoudCustomers\CloudCustomers.UnitTests\
+build_property.ProjectDir = C:\Users\mateu\OneDrive\Documentos\GitHub\webapi-dotnet6-with-tdd\CloudCustomers.UnitTests\

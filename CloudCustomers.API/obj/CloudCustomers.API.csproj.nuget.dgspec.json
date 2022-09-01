@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Projetos\\CLoudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj": {}
+    "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\webapi-dotnet6-with-tdd\\CloudCustomers.API\\CloudCustomers.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Projetos\\CLoudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj": {
+    "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\webapi-dotnet6-with-tdd\\CloudCustomers.API\\CloudCustomers.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Projetos\\CLoudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\webapi-dotnet6-with-tdd\\CloudCustomers.API\\CloudCustomers.API.csproj",
         "projectName": "CloudCustomers.API",
-        "projectPath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Projetos\\CLoudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj",
+        "projectPath": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\webapi-dotnet6-with-tdd\\CloudCustomers.API\\CloudCustomers.API.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Projetos\\CLoudCustomers\\CloudCustomers.API\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\webapi-dotnet6-with-tdd\\CloudCustomers.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
